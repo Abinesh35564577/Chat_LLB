@@ -1,5 +1,9 @@
 from turtle import width
 from unittest import loader
+import tkinter as TK
+import _tkinter
+import matplotlib
+matplotlib.use('Agg') 
 import streamlit as st
 
 from embedchain import App
@@ -9,10 +13,7 @@ from io import StringIO
 from PIL import Image
 import os
 import requests
-from turtle import width
-import tkinter as TK
-import _tkinter
-import streamlit as st
+
 from embedchain import App
 from embedchain.config import BaseLlmConfig
 from embedchain.helpers.callbacks import (StreamingStdOutCallbackHandlerYield,
