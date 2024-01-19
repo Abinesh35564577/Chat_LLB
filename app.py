@@ -1,6 +1,4 @@
 from unittest import loader
-import tkinter as TK
-import _tkinter
 import matplotlib
 matplotlib.use('Agg') 
 import streamlit as st
