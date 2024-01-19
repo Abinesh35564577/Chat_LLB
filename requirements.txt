@@ -2,3 +2,5 @@ matplotlib
 streamlit
 embedchain
 pysqlite3-binary
+tkinter
+ 
