@@ -1,4 +1,3 @@
-from turtle import width
 from unittest import loader
 import tkinter as TK
 import _tkinter
