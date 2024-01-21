@@ -2,7 +2,8 @@
 
 URL-> https://chatllb.streamlit.app/
 
-[streamlit-app-2024-01-21-09-01-75.webm](https://github.com/Guggu-Gill/Chat_LLB/assets/128667568/81aa9788-1935-4d3c-aea6-8ae59f540bb3)
+<img width="885" alt="Screenshot 2024-01-21 at 9 18 51 AM" src="https://github.com/Guggu-Gill/Chat_LLB/assets/128667568/9429b028-607e-45f8-8fae-228ff7a2f135">
+
 
 - Made with love by Basant Singh powered by Embedchain
 - a simple RAG chatbot augmented using Indian constitution & laws.
