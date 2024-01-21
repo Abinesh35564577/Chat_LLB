@@ -1,8 +1,8 @@
 **Chat-LLB**
 
-https://chatllb.streamlit.app/
+URL-> https://chatllb.streamlit.app/
 
-[streamlit-app-2024-01-21-09-01-75.webm](https://github.com/Guggu-Gill/Chat_LLB/assets/128667568/2d541b62-33bb-4430-9e47-02abf56df5dd)
+[streamlit-app-2024-01-21-09-01-75.webm](https://github.com/Guggu-Gill/Chat_LLB/assets/128667568/81aa9788-1935-4d3c-aea6-8ae59f540bb3)
 
 - Made with love by Basant Singh powered by Embedchain
 - a simple RAG chatbot augmented using Indian constitution & laws.
